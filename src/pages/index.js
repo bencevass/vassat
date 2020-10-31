@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Home() {
   return (
     <>
-      <HtmlHeader title="vass.at" />
+      <HtmlHeader title="vass.at" description="Bence Vass, software engineer" />
       <main>
         <Jumbotron title="Bence Vass">
           <p>software engineer</p>
