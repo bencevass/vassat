@@ -16,9 +16,11 @@
   "dependencies": {
     "bootstrap": "^4.5.3",
     "gatsby": "^2.24.91",
+    "gatsby-plugin-react-helmet": "^3.3.14",
     "react": "^16.12.0",
     "react-bootstrap": "^1.4.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "2.1.2"
