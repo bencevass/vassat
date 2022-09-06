@@ -16,7 +16,7 @@ export default function Home() {
           <p>
             <a href="mailto:bence@vass.at">
               <IconMail />
-              <span className="sr-only">E-Mail</span>
+              <span className="visually-hidden">E-Mail</span>
             </a>
           </p>
         </Jumbotron>

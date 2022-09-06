@@ -5,7 +5,7 @@ import RandomImage from "../components/randomImage"
 import Footer from "../components/footer"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function() {
+export default function ErrorPage() {
   return (
     <>
         <HtmlHeader title="404 - vass.at" description="404 - what else do you want to know?" />
