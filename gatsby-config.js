@@ -10,5 +10,4 @@ module.exports = {
     title: `vass.at`,
     author: `Bence Vass`,
   },
-  plugins: [`gatsby-plugin-react-helmet`]
 }
