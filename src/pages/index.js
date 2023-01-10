@@ -4,18 +4,22 @@ import RandomImage from "../components/randomImage"
 import Footer from "../components/footer"
 import IconMail from "../components/iconMail"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from "gatsby"
 
 export default function Home() {
   return (
     <>
       <main>
         <Jumbotron title="Bence Vass">
-          <p>software engineer</p>
           <p>
+            software engineer<br/>
             <a href="mailto:bence@vass.at">
               <IconMail />
               <span className="visually-hidden">E-Mail</span>
             </a>
+          </p>
+          <p>
+            <Link to="/top3movies/" className="link-dark">Top 3 movies of the year</Link>
           </p>
         </Jumbotron>
 
