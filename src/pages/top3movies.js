@@ -1,6 +1,5 @@
 import React from "react"
 import Jumbotron from "../components/jumbotron"
-import RandomImage from "../components/randomImage"
 import Footer from "../components/footer"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from "gatsby"
@@ -55,7 +54,6 @@ export function Head(props) {
       <meta charSet="utf-8" />
       <title>Top 3 movies - vass.at</title>
       <meta name="description" content="Top 3 movies of the year" />
-      <html lang="en" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
