@@ -29,7 +29,7 @@ export default function Top3MoviesPage() {
                             <li className="list-group-item">Dune</li>
                             <li className="list-group-item">All My Friends Hate Me</li>
                             <li className="list-group-item">The Green Knight</li>
-                            <li className="list-group-item">Honorable Mention: The Alpinist </li>
+                            <li className="list-group-item">Honorable Mentions: The Alpinist, All My Friends Hate Me</li>
                         </ul>
                         <h2 className="mt-3">2020</h2>
                         <ul className="list-group">
