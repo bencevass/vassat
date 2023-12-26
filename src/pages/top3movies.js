@@ -18,6 +18,11 @@ export default function Top3MoviesPage() {
                 <div className="row">
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8">
+                      <h2>2023</h2>
+                        <ul className="list-group">
+                        <li className="list-group-item">The Promised Land (Bastarden)</li>
+                            <li className="list-group-item">The Eight Mountains (Le otto montagne)</li>
+                        </ul>
                         <h2>2022</h2>
                         <ul className="list-group">
                             <li className="list-group-item">Top Gun: Maverick</li>
