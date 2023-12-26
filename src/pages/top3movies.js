@@ -19,29 +19,29 @@ export default function Top3MoviesPage() {
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8">
                       <h2>2023</h2>
-                        <ul className="list-group">
+                      <ul className="list-group">
                         <li className="list-group-item">The Promised Land (Bastarden)</li>
-                            <li className="list-group-item">The Eight Mountains (Le otto montagne)</li>
-                        </ul>
-                        <h2>2022</h2>
-                        <ul className="list-group">
-                            <li className="list-group-item">Top Gun: Maverick</li>
-                            <li className="list-group-item">The Banshees of Inisherin</li>
-                            <li className="list-group-item">The Menu</li>
-                        </ul>
-                        <h2 className="mt-3">2021</h2>
-                        <ul className="list-group">
-                            <li className="list-group-item">Dune</li>
-                            <li className="list-group-item">All My Friends Hate Me</li>
-                            <li className="list-group-item">The Green Knight</li>
-                            <li className="list-group-item">Honorable Mention: The Alpinist</li>
-                        </ul>
-                        <h2 className="mt-3">2020</h2>
-                        <ul className="list-group">
-                            <li className="list-group-item">Another Round</li>
-                            <li className="list-group-item">First Cow</li>
-                            <li className="list-group-item">Tenet</li>
-                        </ul>
+                        <li className="list-group-item">The Eight Mountains (Le otto montagne)</li>
+                      </ul>
+                      <h2 className="mt-3">2022</h2>
+                      <ul className="list-group">
+                        <li className="list-group-item">Top Gun: Maverick</li>
+                        <li className="list-group-item">The Banshees of Inisherin</li>
+                        <li className="list-group-item">The Menu</li>
+                      </ul>
+                      <h2 className="mt-3">2021</h2>
+                      <ul className="list-group">
+                        <li className="list-group-item">Dune</li>
+                        <li className="list-group-item">All My Friends Hate Me</li>
+                        <li className="list-group-item">The Green Knight</li>
+                        <li className="list-group-item">Honorable Mention: The Alpinist</li>
+                      </ul>
+                      <h2 className="mt-3">2020</h2>
+                      <ul className="list-group">
+                        <li className="list-group-item">Another Round</li>
+                        <li className="list-group-item">First Cow</li>
+                        <li className="list-group-item">Tenet</li>
+                      </ul>
                     </div>
                     <div className="col-sm-2"></div>
                 </div>
