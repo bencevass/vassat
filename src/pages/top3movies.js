@@ -22,6 +22,7 @@ export default function Top3MoviesPage() {
                       <ul className="list-group">
                         <li className="list-group-item">The Promised Land (Bastarden)</li>
                         <li className="list-group-item">The Eight Mountains (Le otto montagne)</li>
+                        <li className="list-group-item">Perfect Days</li>
                       </ul>
                       <h2 className="mt-3">2022</h2>
                       <ul className="list-group">
