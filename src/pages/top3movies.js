@@ -18,6 +18,12 @@ export default function Top3MoviesPage() {
                 <div className="row">
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8">
+                      <h2>2024</h2>
+                      <ul className="list-group">
+                        <li className="list-group-item">Monkey Man</li>
+                        <li className="list-group-item">Speak No Evil</li>
+                        <li className="list-group-item">Dune: Part Two</li>
+                      </ul>
                       <h2>2023</h2>
                       <ul className="list-group">
                         <li className="list-group-item">The Promised Land (Bastarden)</li>
