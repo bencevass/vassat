@@ -20,9 +20,9 @@ export default function Top3MoviesPage() {
                     <div className="col-sm-8">
                     <h2 className="mt-3">2025</h2>
                       <ul className="list-group">
+                        <li className="list-group-item">One Battle After Another</li>
                         <li className="list-group-item">Companion</li>
                         <li className="list-group-item">Rise of the Raven / Hunyadi – Aufstieg zur Macht (TV series)</li>
-                        <li className="list-group-item"></li>
                       </ul>
                       <h2 className="mt-3">2024</h2>
                       <ul className="list-group">
