@@ -21,8 +21,10 @@ export default function Top3MoviesPage() {
                     <h2 className="mt-3">2025</h2>
                       <ul className="list-group">
                         <li className="list-group-item">One Battle After Another</li>
+                        <li className="list-group-item">Bugonia</li>
                         <li className="list-group-item">Companion</li>
-                        <li className="list-group-item">Rise of the Raven / Hunyadi – Aufstieg zur Macht (TV series)</li>
+                        <li className="list-group-item">Honorable Mention: Good Fortune</li>
+                        <li className="list-group-item">Honorable Mention: Rise of the Raven / Hunyadi – Aufstieg zur Macht (TV series)</li>
                       </ul>
                       <h2 className="mt-3">2024</h2>
                       <ul className="list-group">
