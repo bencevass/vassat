@@ -18,7 +18,11 @@ export default function Top3MoviesPage() {
                 <div className="row">
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8">
-                    <h2 className="mt-3">2025</h2>
+                      <h2 className="mt-3">2026</h2>
+                      <ul className="list-group">
+                        <li className="list-group-item">Project Hail Mary</li>
+                      </ul>
+                      <h2 className="mt-3">2025</h2>
                       <ul className="list-group">
                         <li className="list-group-item">One Battle After Another</li>
                         <li className="list-group-item">Bugonia</li>
