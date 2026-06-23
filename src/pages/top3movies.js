@@ -21,6 +21,7 @@ export default function Top3MoviesPage() {
                       <h2 className="mt-3">2026</h2>
                       <ul className="list-group">
                         <li className="list-group-item">Project Hail Mary</li>
+                        <li className="list-group-item">Honorable Mention: The Dark Wizard (TV series)</li>
                       </ul>
                       <h2 className="mt-3">2025</h2>
                       <ul className="list-group">

@@ -11,11 +11,5 @@ module.exports = {
     author: `Bence Vass`,
   },
   plugins: [
-    {
-      resolve: 'gatsby-plugin-html-attributes',
-      options: {
-        lang: 'en'
-      }
-    }
   ]
 }
